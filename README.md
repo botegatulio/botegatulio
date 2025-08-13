@@ -42,13 +42,9 @@ at the intersection of data science, NLP, and algorithm development.
 
 ## Contact
 <p>
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-Contact-informational" /></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" /></a>
+  <a href="mailto:tuliombotega@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational" /></a>
+  <a href="https://www.linkedin.com/in/tulio-botega/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" /></a>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=dark" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSER&theme=dark" height="150" />
-</div>
