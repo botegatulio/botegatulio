@@ -43,7 +43,7 @@ at the intersection of data science, NLP, and algorithm development.
 ## Contact
 <p>
   <a href="mailto:tuliombotega@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational" /></a>
-  <a href="https://www.linkedin.com/in/tulio-botega/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" /></a>
+  <a href="https://www.linkedin.com/in/tuliobotega/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" /></a>
 </p>
 
 ---
