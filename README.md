@@ -1,28 +1,55 @@
-# 🤓 Tulio Botega
-**Data Scientist / Data Analyst** 
+<h1 align="left">🤓 Tulio Botega</h1>
+<p>
+  <b>Data Scientist / Data Analyst</b>
+</p>
 
-I'm Graduate student pursuing a Master's degree in Computer Science at the esteemed University of
-Colorado Boulder, with a solid academic foundation as a Bachelor in Mechanical Engineering from
-the prestigious Universidade de São Paulo. My diverse skill set encompasses proficiency in Data
-Analysis, Data Science, Marketing, Business Intelligence (BI), Programming, Artificial Intelligence,
-and Project Management (Green Belt certified). 
+## About Me
+I’m a graduate student pursuing a Master’s degree in Computer Science at the prestigious 
+<a href="https://www.colorado.edu/" target="_blank">University of Colorado Boulder</a>, 
+building on a strong academic foundation as a Bachelor in Mechanical Engineering from the 
+<a href="https://www5.usp.br/" target="_blank">Universidade de São Paulo</a>.
 
-My expertise lies in seamlessly integrating Natural Language Processing (NLP) models, with a penchant for leveraging spaCy as my framework of choice. My mission is to unravel meaningful patterns from the vast sea of data.
+My expertise spans Data Analysis, Data Science, Marketing, Business Intelligence (BI), 
+Programming, Artificial Intelligence, and Project Management (Green Belt certified).  
+I specialize in integrating Natural Language Processing (NLP) models, with a preference for 
+<a href="https://spacy.io/" target="_blank">spaCy</a> as my go-to framework, aiming to uncover 
+meaningful patterns from complex datasets.
 
-🔗 Connect with Me:
-Open to collaboration and knowledge exchange! Let's connect and explore the exciting possibilities at the intersection of data science, NLP, and algorithm development.
+🔗 **Open to collaboration and knowledge exchange** — Let’s connect and explore opportunities 
+at the intersection of data science, NLP, and algorithm development.
 
-<!--
-**botegatulio/botegatulio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/python-original.svg" height="28" alt="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="28" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="28" alt="GCP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="PostgreSQL" />
+</div>
 
-Here are some ideas to get you started:
+## What I Do
+- **Data Analysis & BI** — End-to-end analytics pipelines and dashboarding for data-driven decisions.
+- **NLP & AI** — Model design, training, and deployment with a focus on spaCy and Python.
+- **Marketing Analytics** — Data modeling and performance insights for digital marketing campaigns.
+- **Automation & Optimization** — Process automation, ETL workflows, and performance optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- 🚀 **NLP Pipeline with spaCy** — Automated entity recognition and text classification system.
+- 📊 **Marketing Performance Dashboard** — KPI tracking for multi-channel campaigns.
+- 🤖 **Data-driven Chatbot** — Context-aware assistant integrating business data.
+
+## Contact
+<p>
+  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-Contact-informational" /></a>
+  <a href="https://www.linkedin.com/in/seu-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" /></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=dark" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSER&theme=dark" height="150" />
+</div>
